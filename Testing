@@ -1,9 +1,69 @@
-<!DOCTYPE html> 
-<html> 
-<head> 
-<title> Richard Castillo</title>
-<body> 
-<h1>Testing yes?</h1>
-</body>
-</head>
-</html>
+<!DOCTYPE html>
+<html lang ="en">
+
+    <head>
+      <meta charset="utf-8">
+      <title>
+        Introduction Richard Castillo
+      </title>
+ 	<link rel="stylesheet" type="text/css" href="styles/default.css" />
+		</head>
+
+    <body>
+      <header>
+        <p style="text-align: center;"></p>
+        <p style="text-align: center;"><strong><span style="font-size: xx-large;">Richard A. Castillo</span></strong></p>
+        <figure>
+          <img src="images/myface.jpg" width="500" height="400" />
+          <figcaption>
+            my face when it is hit by rain
+          </figcaption>
+        </figure>
+      </header>
+
+      <ul>
+        <li><strong style="font-size: 13.0px;">Personal background:</strong><span style="font-size: 13.0px;"> Light programming courses in High School and some in CPCC</span></li>
+        <li><strong style="font-size: 13.0px;">Professional background:  Still a student with light programming assistance</strong></li>
+        <li><strong style="font-size: 13.0px;">Academic background:</strong><span style="font-size: 13.0px;">High School graduate and CPCC student</span></li>
+        <li><strong>Background in the subject matter of this course</strong>: I have taken beginner courses in Python, Java and C++ with HTML in varying degrees of success</li>
+        <li><strong>Primary computer platform:</strong> Windows PC</li>
+      </ul>
+	  <ul>	  
+      <li><strong>Reason for taking each course: </strong>
+			I want to become a Computer Scientist with a focus in robotics but for right now I want to go for an Associates in IT to help me strengthen my overall skills</li>
+      <ul>        
+          <li>CSC134: Java programming for my future Computer Science Degree</li>
+          <li>CTI 110: Web, PGM and DB foundation for so I can have an understanding of the bases for all the websites we interact with</li>
+          <li><span style="font-size: 13.0px;">CSC 120: computing fundamentals for learning the basis of Python for Computer Science Degree</span></li>
+      </ul>
+	  </ul>
+	  <ul>
+        <li><strong>Funny story or interesting item about yourself to remember you by:  </strong>I love computers in general, built my own PC, and program in a  few languages</li>
+        <li><strong>I'd also like to share: </strong>I like taking any book suggestions you have to offer</li>
+        <li><strong>Work links: </strong>
+		<a href="http://students.cpcc.edu/~rcastil4" target="_blank" rel="noreferrer noopener">CP Webspace</a> ||
+        <a href="https://github.com/Innovator1423" target="_blank" rel="noreferrer noopener">Github</a> ||
+        <a href="https://innovator1423.github.io/AppleOrchard/" target="_blank" rel="noreferrer noopener">Github Pages</a> ||
+        <a href="https://www.khanacademy.org/profile/kaid_815528029140263776657759/" target="_blank" rel="noreferrer noopener">Khan Academy</a> ||
+        <a href="https://www.codecademy.com/profiles/Innovator1423" target="_blank" rel="noreferrer noopener">Codecademy</a> ||
+        <a href="https://www.freecodecamp.org/innovator1423" target="_blank" rel="noreferrer noopener">FreeCodeCamp</a> ||
+        <a href="https://jsfiddle.net/user/Innovator1423/" target="_blank" rel="noreferrer noopener">JSFiddle</a> ||
+        <a href="https://profile.edx.org/u/Innovator1423" target="_blank" rel="noreferrer noopener">EdX</a> ||
+        <a href="https://www.linkedin.com/in/richard-castillo-64aba9103/" target="_blank" rel="noreferrer noopener">LinkedIn</a></li>
+      </ul>
+	  
+	  
+	  	<a style ="text-decoration: none;" href="http://validator.w3.org/check?uri=referer">
+		<img src="images/validhtml5.gif"  alt="Valid HTML 5" 
+		height="31" width="88" style="border:0px;" />
+		</a>
+		
+		<a style = "text-decoration: none;" href="http://jigsaw.w3.org/css-validator/check/referer">
+		<img style="border:0;width:88px;height:31px"
+		src="images/cssblue.gif"
+		alt="CSS Validation Button" />
+		</a>
+	  
+    </body>
+
+  </html>
