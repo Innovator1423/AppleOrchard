@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang = "EN">
+	<head>
+		<meta charset="UTF-8">
+		<title>WEB110 Business</title>
+		<link rel = "stylesheet" type = "text/css"  href = "styles/default.css" />
+
+	</head>
+	<body>
+		<h1>Bored Board Gamers</h1>
+		<p>A platform for those to create their game platform</p>
+		have you ever encountered a game that you liked and wanted to share with everybody? What if you could create a fortune 500(of games)
+		list with rankings? Why stop there? Make a board game with others and submit it to participate in the free for all
+	<p>
+
+	</p>
+	<footer>
+
+	<nav>
+		<a href="http://students.cpcc.edu/~rcastil4" target="_blank" rel="noreferrer noopener">CP Webspace</a> &#916;
+        <a href="https://github.com/Innovator1423" target="_blank" rel="noreferrer noopener">Github</a> &#916;
+        <a href="http://userid.github.io" target="_blank" rel="noreferrer noopener">Github Pages</a> &#916;
+        <a href="https://www.khanacademy.org/profile/kaid_815528029140263776657759/" target="_blank" rel="noreferrer noopener">Khan Academy</a> &#916;
+        <a href="https://www.codecademy.com/profiles/Innovator1423" target="_blank" rel="noreferrer noopener">Codecademy</a> &#916;
+        <a href="https://www.freecodecamp.org/innovator1423" target="_blank" rel="noreferrer noopener">FreeCodeCamp</a> &#916;
+        <a href="https://jsfiddle.net/user/Innovator1423/" target="_blank" rel="noreferrer noopener">JSFiddle</a> &#916;
+        <a href="https://profile.edx.org/u/Innovator1423" target="_blank" rel="noreferrer noopener">EdX</a> &#916;
+        <a href="https://www.linkedin.com/in/richard-castillo-64aba9103/" target="_blank" rel="noreferrer noopener">LinkedIn</a></li>
+	</nav>
+		<p> Designed by Richard Castillo </p>
+
+</footer>
+	</body>
+</html>
